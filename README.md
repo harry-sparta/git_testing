@@ -10,3 +10,6 @@
 - 6.) Make pull requests from master branch owner to merge changes done on feature branch
 - 7.) Merge pull requests from feature branch into master branch
 
+feature_1 branch created
+Testing pull requests
+
